@@ -1,0 +1,2 @@
+a program that ask for unlimited numbers then sums the negative and positive numbers
+will repeat until the user enters a zero value.
