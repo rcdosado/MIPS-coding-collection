@@ -33,12 +33,14 @@ printInteger:
 	jr	$ra
 #---------------------------------------
 #	in:	$a0, the parent node that 
+#
 #	on entry:
 #	-----------------
 #	  node address <-- top of stack
 #	-----------------
 #	  TOS+4
 #	-----------------
+#
 #---------------------------------------
 printtree:
 
