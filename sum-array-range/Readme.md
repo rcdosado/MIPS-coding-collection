@@ -1,4 +1,5 @@
-MIPS program that :
+MIPS program that 
+-----------------
 
 1. asks for a number N
 2. gets N numbers from the user
