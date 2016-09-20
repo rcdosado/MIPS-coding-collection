@@ -1,4 +1,4 @@
-mips program that 
+MIPS program that 
 ----------------
 
 1. get 10 numbers from the user
